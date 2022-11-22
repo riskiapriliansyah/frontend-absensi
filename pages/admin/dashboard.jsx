@@ -1,4 +1,4 @@
-import {GiHamburgerMenu} from "react-icons/gib"
+import {GiHamburgerMenu} from "react-icons/gi"
 export default function Dashboard() {
     return (
         <>
